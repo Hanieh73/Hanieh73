@@ -7,10 +7,10 @@ I'm Hanieh Zaab, a passionate software developer with a love for Web Development
 - 💬 Feel free to connect with me! I'm always open to interesting collaborations and discussions!
 - 📫 You can reach me at: hanieh.zaab@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a creative side too — I enjoy working with epoxy resin!
+- 🎨 Fun fact: I have a creative side too! You can check out my artwork here: [Art by Hanieh](https://welcome-page-artbyhanieh.netlify.app/) 🎨
 - 🎓 Not a fun fact: I hold a first-class degree in Accounting and Finance. If I could turn back time, I'd choose either Pure Mathematics or Computer Science.
 - 🌐 Languages: Fluent in English and Farsi, Basic in Turkish and Arabic.
-- 🎨 Hobbies: Painting, Drawing, Photography, Video Editing, Language Learning, Coding.
+- ⚡ Hobbies: Painting, Drawing, Photography, Video Editing, Language Learning, Coding.
 - 🌍 I'm currently based in London, UK.
 
 
