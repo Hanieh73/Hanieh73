@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Hanieh Zaab, a passionate software developer with a love for Web Development and Python. 🚀
+I'm Hanieh, a passionate software developer with a love for Web Development and Python. 🚀
 
 - 🔭 Currently, I'm working on refining my Web Development skills and mastering Python.
 - 🌱 I'm an enthusiastic learner, always exploring new possibilities in the world of programming.
