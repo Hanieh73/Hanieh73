@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHanieh73%2FHanieh73&labelColor=%231d3658&countColor=%2330686f)
+
 I'm Hanieh, a passionate software developer with a love for Web Development and Python. 🚀
 
 - 🔭 Currently, I'm working on refining my Web Development skills and mastering Python.
